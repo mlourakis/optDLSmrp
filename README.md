@@ -3,7 +3,7 @@ This repo contains matlab code from M. Lourakis and G. Terzakis, "[A Globally Op
 
 The code solves the [perspective-n-point](https://en.wikipedia.org/wiki/Perspective-n-Point) problem (**PnP**).
 
-For a fast PnP solver in C++ see [SQPnP](https://github.com/terzakig/sqpnp)
+For a fast, C++ PnP solver see [SQPnP](https://github.com/terzakig/sqpnp).
 
 ## License
 GPL
