@@ -21,7 +21,7 @@ pts2=[
 % the following avoids singularities by applying the technique of sequential rotations discussed in section VII of the paper
 [R t minrepr]=optDLS_mrp_seqrot(pts3, pts2);
 
-% this does not apply sequential rotations
+% this does not apply sequential rotations but is faster
 %[R t minrepr]=optDLS_mrp(pts3, pts2);
 
 R
