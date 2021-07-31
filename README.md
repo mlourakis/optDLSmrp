@@ -15,11 +15,11 @@ Development has received funding from the European Union’s Horizon 2020 Resear
 
 If you use this code in your published work, please cite the following paper:
 
-@inproceedings{Lourakis2021optDLSmrp,
-  author={Lourakis, Manolis and Terzakis, George},
-  title={A Globally Optimal Method for the {PnP} Problem with {MRP} Rotation Parameterization},
-  booktitle={International Conference on Pattern Recognition (ICPR)},
-  publisher={IEEE},
-  pages={3058--3063},
-  year={2021},
+@inproceedings{Lourakis2021optDLSmrp,<br>
+  author={Lourakis, Manolis and Terzakis, George},<br>
+  title={A Globally Optimal Method for the {PnP} Problem with {MRP} Rotation Parameterization},<br>
+  booktitle={International Conference on Pattern Recognition (ICPR)},<br>
+  publisher={IEEE},<br>
+  pages={3058--3063},<br>
+  year={2021},<br>
 }
