@@ -1,3 +1,10 @@
 # optDLSmrp
+This repo contains code from M. Lourakis and G. Terzakis, "[A Globally Optimal Method for the PnP Problem with MRP Rotation Parameterization](http://users.ics.forth.gr/~lourakis/publ/2020_icpr.pdf)", 25th International Conference on Pattern Recognition (ICPR), 2021, pp. 3058-3063. 
 
-This repo will contain the code from M. Lourakis and G. Terzakis, "A Globally Optimal Method for the PnP Problem with MRP Rotation Parameterization", ICPR 2020.
+The code solves the [perspective-n-point](https://en.wikipedia.org/wiki/Perspective-n-Point) problem (**PnP**).
+
+## License
+GPL
+
+### Funding
+Development has received funding from the European Union’s Horizon 2020 Research and Innovation program under grant agreement Nos 826506 (sustAGE -- https://www.sustage.eu/) and 101017151 (FELICE -- https://www.felice-project.eu/). 
