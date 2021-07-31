@@ -1,7 +1,9 @@
 # optDLSmrp
-This repo contains code from M. Lourakis and G. Terzakis, "[A Globally Optimal Method for the PnP Problem with MRP Rotation Parameterization](http://users.ics.forth.gr/~lourakis/publ/2020_icpr.pdf)", 25th International Conference on Pattern Recognition (ICPR), 2021, pp. 3058-3063. 
+This repo contains matlab code from M. Lourakis and G. Terzakis, "[A Globally Optimal Method for the PnP Problem with MRP Rotation Parameterization](http://users.ics.forth.gr/~lourakis/publ/2020_icpr.pdf)", 25th International Conference on Pattern Recognition (ICPR), 2021, pp. 3058-3063. 
 
 The code solves the [perspective-n-point](https://en.wikipedia.org/wiki/Perspective-n-Point) problem (**PnP**).
+
+For a fast PnP solver in C++ see [SQPnP](https://github.com/terzakig/sqpnp)
 
 ## License
 GPL
