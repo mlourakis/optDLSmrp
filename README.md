@@ -3,6 +3,8 @@ This repo contains matlab code from M. Lourakis and G. Terzakis, "[A Globally Op
 
 The code solves the [perspective-n-point](https://en.wikipedia.org/wiki/Perspective-n-Point) problem (**PnP**).
 
+For details on the Modiﬁed Rodrigues Parameters (MRPs) representation for 3D rotation, see [this](https://github.com/mlourakis/MRPs).
+
 For a fast PnP solver written in C++, see [SQPnP](https://github.com/terzakig/sqpnp).
 
 ## License
