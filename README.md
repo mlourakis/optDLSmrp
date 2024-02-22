@@ -7,6 +7,8 @@ For details on the Modiﬁed Rodrigues Parameters (MRPs) representation for 3D r
 
 For a fast PnP solver written in C++, see [SQPnP](https://github.com/terzakig/sqpnp).
 
+See also G. Nakano's BMVC'15 [paper repo](https://github.com/g9nkn/pnp_problem).
+
 ## License
 GPL
 
